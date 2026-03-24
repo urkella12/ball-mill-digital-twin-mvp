@@ -5,6 +5,10 @@
 ![Pymunk](https://img.shields.io/badge/Pymunk-Physics-red.svg)
 ![NumPy](https://img.shields.io/badge/NumPy-Data-lightblue.svg)
 
+
+https://github.com/user-attachments/assets/e0ec13f5-d8a9-47de-a3a8-dc9616d0f040
+
+
 ## 📌 Overview
 [cite_start]This project is a multiscale computational model for predicting nanoparticle synthesis in high-energy ball mills, integrating the Discrete Element Method (DEM) and Cellular Automata (CA)[cite: 38, 87]. 
 
